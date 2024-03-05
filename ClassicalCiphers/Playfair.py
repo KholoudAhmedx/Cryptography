@@ -34,6 +34,7 @@ for i in range(len(alphabet)):
         rearranged_alphabet.append(alphabet[i])
 #print(rearranged_alphabet)
 
+# Convert the list to 2D array 
 num_columns = 5
 num_rows = 5
 for i in range(0, len(rearranged_alphabet), 5):
